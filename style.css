@@ -13,7 +13,7 @@
     color: crimson;
 }
 .links a:hover{
-    color: crimson;
+    color: #225858;
 }
 
 .main-text{
@@ -50,7 +50,7 @@
 .card{
     
     padding-top: 10px;
-    border-left: 7px solid crimson;
+    border-left: 7px solid #225858;
 }
 
 .icons{
@@ -58,7 +58,7 @@
     margin-right: 20px ;
     padding-top: 20px;
     padding-bottom: 20px;
-    color: crimson;
+    color: #225858;
 }
 .title{
     font-size: 27px;
@@ -203,7 +203,7 @@ footer{
 
 
   .orange{
-    color: crimson;
+    color: #225858;
   }
 
   .last{
